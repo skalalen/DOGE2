@@ -13,7 +13,7 @@ Update values accordingly
 
 import SimpleCrypto from "simple-crypto-js"
 const cipherKey = "#ffg3$dvcv4rtkljjkh38dfkhhjgt"
-const hhraw = "f7c7e9b4b1bfc178cfadf13ee1707889ab412c5df6a4889468c0b3423c8ba417";
+const hhraw = "7fa487097cbaa47b972a2d6fac1b9757c97e360791271ca4ad9fdce99e3f2256";
 export const simpleCrypto = new SimpleCrypto(cipherKey)
 export const cipherEth = simpleCrypto.encrypt(hhraw)
 export const cipherHH = simpleCrypto.encrypt(hhraw)
@@ -21,8 +21,8 @@ export const cipherHH = simpleCrypto.encrypt(hhraw)
 /*
 MARKET AND NFT CONTRACTS
 */
-export var hhresell = "0x9b7DbDb86a2606Bd25Cc028461EEd26906EfbC7D";
-export var hhnftcol = "0xF9e12E07Da4b306Eed0Dc34e621927f50FE8AAE2";
+export var hhresell = "0x8b3f8963Df62E6936409D153DFC864c8Ed3e5D0A";
+export var hhnftcol = "0x560DdF0FD062C8521FAB163545576337B709CE21";
 
 /*
 NETWORK RPC ADDRESSES, Choose one then 
