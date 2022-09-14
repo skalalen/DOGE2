@@ -1086,7 +1086,7 @@ var vaultcontract = null;
 var web3 = null;
 
 
-const NFTCONTRACT = "0x560DdF0FD062C8521FAB163545576337B709CE21";
+const NFTCONTRACT = "0x04a78CF7afe292Fb6f353b48b15B095EDC8aCf8c";
 const STAKINGCONTRACT = "0xACCb1fFD5ae92560C566F2b60054583A33fB9138"
 const polygonscanapikey = "SH73UCW5S3164WP5BEC6S6H7GG9VPSWTAG";
 const polygonscanapi = "https://api-testnet.bscscan.com/"

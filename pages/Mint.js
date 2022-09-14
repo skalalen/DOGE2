@@ -1167,7 +1167,7 @@ var account = null;
 var contract = null;
 var token = null;
 
-const ADDRESS = "0x560DdF0FD062C8521FAB163545576337B709CE21";
+const ADDRESS = "0x04a78CF7afe292Fb6f353b48b15B095EDC8aCf8c";
 const erc20address ="0x0796D92C2Bf172269382361Fc90a6f8577D22556";
 
 
@@ -1265,7 +1265,7 @@ function App () {
 							
                             
                             </div>
-                            <label class="mx-auto" style={{color:"#FFFFFF"}}>Price 500 WDoge</label>
+                            <label class="mx-auto" style={{color:"#FFFFFF"}}>Price 100 WDoge</label>
 
                     </form>
 

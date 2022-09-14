@@ -1085,7 +1085,7 @@ var contract = null;
 var vaultcontract = null;
 var web3 = null;
 
-const NFTCONTRACT = "0xbCfEE73bC1541b9A5e8a1bE45e3A12F4de00AA6f";
+const NFTCONTRACT = "0x04a78CF7afe292Fb6f353b48b15B095EDC8aCf8c";
 const STAKINGCONTRACT = "0x1bF3C99F7912061C4b176830F4ec96C9ed9bb54A";
 
 
